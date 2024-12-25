@@ -4,7 +4,7 @@
     text-align: justify;  
 } */
  
-/* .navbar{
+ .navbar{
     width: 86%;
     display: flex;
     justify-content: space-between;
@@ -38,13 +38,13 @@ li a{
     column-gap: 20px;
     row-gap: 10px;
     grid-template-columns: auto auto auto;
-    /* background-color: #9eb2bc; */
-    /* padding: 10px;
+    background-color: #9eb2bc;
+    padding: 10px;
     background: url(images/logo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   
-  } */
+  } 
 
 .item {
     border: 1px dotted rgba(239, 237, 237, 0.8);
