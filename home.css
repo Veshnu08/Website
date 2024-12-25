@@ -46,7 +46,7 @@ li a{
   
   } */
 
-/* .item {
+.item {
     border: 1px dotted rgba(239, 237, 237, 0.8);
     padding: 50px;
     font-size: 20px;
@@ -57,7 +57,7 @@ li a{
      background-image: url(images/laptop.jpg);
     background-repeat: no-repeat;
     background-size: cover;  
-  } */ 
+  }
 
 
 *{
@@ -120,7 +120,7 @@ ul li a:hover{
     animation: move 8s linear infinite; 
   }
 
-  /* .cid{
+  .cid{
     background: url("https://i.pinimg.com/originals/59/74/30/5974306cd92ab4d5338f1a8e7477c176.gif");
     background-size: 100%;
     text-align: center;
@@ -132,7 +132,7 @@ ul li a:hover{
     background-clip: text;
     -webkit-text-fill-color:transparent;
     animation: move 8s linear infinite; 
-  } */
+  }
 
   @font-face {
     font-family: "Huck";
